@@ -9,17 +9,19 @@ Un SI a été conçu de toutes pièces avec des moyens d'ingénierie propres et 
 Une telle réalisation était exceptionnelle en 2000, elle ne l'est plus aujourd'hui.
 
 Pour construire SIRIUS il a fallu un travail de conception fonctionnel d'une part et le développement du SI d'autre part.
-Ces moyens ne sont plus à la DiRIF aujourd'hui.
+Ce chantier a reposé sur des équipes nombreuses qui ne sont plus à la DiRIF aujourd'hui.
 
 La capacité à réaliser les développements informatiques peut sans doute être trouvée sur le marché.
 En revanche, l'expertise nécessaire pour mettre à jour la spécification fonctionnelle est plus rare.
+Elle aura besoin de mettre en place un travail implicant les exploitants.
 
 Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.
 
 Compétences présente à la DiRIF en 2024
 *****************************************
 Les équipes de développement qui ont fait SIRIUS ont quitté la DiRIF. Les effectifs sur ces métiers ont fondu.
-La principale évolution de SIRIUS a été l'utilisation des FCD qui se substituent en partie aux points de mesure du trafic.
+
+La principale évolution de SIRIUS des 15 dernières années a été l'utilisation des FCD qui se substituent en partie aux points de mesure du trafic.
 Cette évolution a été introduite avec le minimum de transfirmation possible.
 Le flux FCD est présenté à SIRIUS comme s'il s'agissait de données issues de stations de comptage classiques.
 
@@ -28,7 +30,7 @@ Compétences fonctionnelles
 Aujourd'hui, à la DiRIF, la compétence fonctionnelle se situe à UCTIR et dans les PCTT. 
 Il s'agit d'une connaissance liée à l'outil SIRIUS et à la manière dont il est utilisé à la DiRIF.
 
-Les personnes présentes seront essentielle pour la conception d'un nouvel SAGT, mais elles ne sont pas en mesure de faire le travail de spécification fonctionnelle nécessaire. Ce travail nécessite des compétences informatiques et d'analyse.
+Les personnes présentes seront essentielles pour la conception d'un nouvel SAGT, mais elles ne sont pas en mesure de faire le travail de spécification fonctionnelle nécessaire. Ce travail nécessite des compétences informatiques et d'analyse.
 Il faut aussi avoir du recul pour envisager de faire certaines choses autrement qu'aujourd'hui.
 
 Les consultants de WaveStone n'avaient pas de connaissance initiale du métier et ils n'ont pas fait l'investissement nécessaire pour être capables de synthétiser les informations apportées par les DIR.
@@ -39,21 +41,24 @@ Au sein d'UIRC, plusieurs agents travaillent avec SIRIUS depuis plus de 20 ans.
 Ces personnes sont très compétentes pour maintenir SIRIUS en fonctionnement. 
 Avec la vetusté des composants, leur expertise est de plus en plus nécessaire et difficile à substituer.
 Pour ces personnes, la disparition de SIRIUS sera une grosse perte car une partie de leur expertise n'aura plus d'utilité.
-Leur participation au remplacement de SIRIUS sera influencée par ce *conflit d'intérêts*.
+Leur participation constructive au remplacement de SIRIUS sera influencée par ce *conflit d'intérêts*.
 
 La maitrise d'ouvrage, qui pilote SIRIUS ?
 *******************************************
 Quand on interroge les agents d'UIRC, ils répondent que la MOA de SIRIUS est portée par le DETT ou par UCTIR. 
 
-Il est vrai que UCTIR est autonome ou du moins leader pour la configuration de SIRIUS, quand il faut mettre en place de nouveaux plans de gestion du trafic ou intégrer des équipements.
+Il est vrai que UCTIR est autonome ou du moins leader pour la configuration de SIRIUS, quand il faut mettre en place de nouveaux plans de gestion du trafic ou intégrer des équipements. Cela fait d'UCTIR le client mais pas le MOA.
 
-Cependant, c'est UIRC qui rédige et gère le marché pour l'exploitation et la TMA du système. 
+C'est UIRC qui rédige et gère le marché pour l'exploitation et la TMA du système. C'est UIRC qui obtient et engage le budget.
+
 SIRIUS connait de fréquents aléas et c'est un agent d'UIRC qui est d'astreinte pour y faire face.
 
-Les investissements qui ont été envisagés sont uniquement prévu pour répondre à des besoins informatiques et ne prennent pas en considération de besoins fonctionnels. UIRC est donc autonome dans la definition de ces investissements. Comme une partie des fonctionnalités de SIRIUS
-ne sont pas utilisées, la refonte informatique peut conduire à reconstruire des branches inutiles du systèmes.
+Les investissements qui ont été envisagés et présentés à la DMR en 2021 sont uniquement prévus pour répondre à des besoins informatiques et ne prennent pas en considération de besoins fonctionnels. UIRC était donc autonome dans la definition de ces investissements. 
 
 C'est donc UIRC qui assure la MOA effective mais il s'agit d'une MOA par défaut. La dimension fonctionnelle de la MOA est absente.
+
+Comme une partie des fonctionnalités de SIRIUS ne sont pas utilisées, la refonte informatique envisagée en 2021 aurait conduit à reconstruire des branches inutiles du systèmes.
+
 
 
 
