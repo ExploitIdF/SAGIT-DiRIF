@@ -6,7 +6,7 @@ Stratégie SAGT de la DiRIF
    :maxdepth: 3
 
    2_Etat
-   4_Modeles
+   4_Benchmark
    6_actions
 
 Le SAGT SIRIUS a été dévbeloppées dans les annnées 1990-2005. 
