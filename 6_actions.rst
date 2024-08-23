@@ -61,7 +61,6 @@ Il faudrait mesurer la valeur des actions d'exploitation au regard de la charge 
 
 UCTIR doit explorer comment travaillent d'autres exploitants et identifier des évolutions dans les pratiques de l'exploitation.
 
-
 Les actions
 *************
 Mise à jours des spécifications fonctionnelles et de la documentation pour les utilisateurs
@@ -92,11 +91,15 @@ Tout ou partie de cet argumentaire devrait être approprié par la DiRIF, afin q
 
 Comparaison de plusieurs modèles d'organisation pour la rénovation du SAGT de la DiRIF
 =========================================================================================
-Si la DiRIF veut convaincre que la solution de la DMR n'est pas la bonne, il lui faut aussi qu'elle soit en mesure de présenter une alternative avec une justification solide. Il me semble que cette alternative n'existe pas aujourd'hui.
+Si la DiRIF veut convaincre que la solution de la DMR n'est pas la bonne pour l'Ile de France, 
+il faut aussi qu'elle soit en mesure de présenter une alternative avec une justification solide. 
+Il me semble que cette alternative n'existe pas aujourd'hui.
 
-On pourrait dans une premier temps retenir l'un des modèles (deux éventuellement) mis en évidence dans le benchmark.
+On pourrait dans une premier temps retenir l'un des 3 grands modèles (deux éventuellement) mis en évidence dans le benchmark.
 
-On développerait ensuite une mise en place de ce modèle, démarche qui peut se faire par étapes et dont il faut évaluer les moyens.
+On développerait ensuite la mise en oeuvre de ce modèle dans le contexte de la DIRIF. 
+Le chantier peut se faire en plusieurs étapes. 
+Il faut en faire ressortir les composantes et en évaluer les moyens.
 
 
 
