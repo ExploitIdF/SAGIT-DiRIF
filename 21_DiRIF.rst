@@ -41,8 +41,25 @@ Avec la vetusté des composants, leur expertise est de plus en plus nécessaire 
 Pour ces personnes, la disparition de SIRIUS sera une grosse perte car une partie de leur expertise n'aura plus d'utilité.
 Leur participation au remplacement de SIRIUS sera influencée par ce *conflit d'intérêts*.
 
-La maitrise d'ouvrage, qui pilote ?
-****************************************
+La maitrise d'ouvrage, qui pilote SIRIUS ?
+*******************************************
+Quand on interroge les agents d'UIRC, ils répondent que la MOA de SIRIUS est portée par le DETT ou par UCTIR. 
+
+Il est vrai que UCTIR est autonome ou du moins leader pour la configuration de SIRIUS, quand il faut mettre en place de nouveaux plans de gestion du trafic ou intégrer des équipements.
+
+Cependant, c'est UIRC qui rédige et gère le marché pour l'exploitation et la TMA du système. 
+SIRIUS connait de fréquents aléas et c'est un agent d'UIRC qui est d'astreinte pour y faire face.
+
+Les investissements qui ont été envisagés sont uniquement prévu pour répondre à des besoins informatiques et ne prennent pas en considération de besoins fonctionnels. UIRC est donc autonome dans la definition de ces investissements. Comme une partie des fonctionnalités de SIRIUS
+ne sont pas utilisées, la refonte informatique peut conduire à reconstruire des branches inutiles du systèmes.
+
+C'est donc UIRC qui assure la MOA effective mais il s'agit d'une MOA par défaut. La dimension fonctionnelle de la MOA est absente.
+
+
+
+
+
+
 
 
 
