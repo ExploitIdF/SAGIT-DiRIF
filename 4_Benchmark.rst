@@ -8,6 +8,7 @@ On décrit les choix d’organisation et de contractualisation avec les entrepri
 Modèles d’organisation
 **************************
 On décrit 3 modèles types d’organisation qui se distinguent par le degré de maitrise du SAGT par le gestionnaire routier.
+
 OrgaA
 =======
 Le modèle OrgaA est caractérisé par une forte maitrise de la conception du SAGT. Le gestionnaire possède en interne des compétences d’architecture et de développement informatique.
