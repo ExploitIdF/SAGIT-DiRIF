@@ -1,20 +1,27 @@
-Documentation des applications DASH
-***********************************
+Stratégie SAGT de la DiRIF
+*****************************
 
 .. toctree::
    :hidden:
    :maxdepth: 3
 
-   2_realisations
-   4_cloudGit
-   9_references
+   2_Etat
+   4_Modeles
+   6_actions
 
-Dash présente une alternative pour réaliser des applications interactives présentant des données et permettant de l'interactivité.
+Le SAGT SIRIUS a été dévbeloppées dans les annnées 1990-2005. 
+Il repose sur des technologies anciennes dans un domaine où les évolutions ont été fortes. 
+Les logiciels sont difficiles à maintenir et à faire évoluer.
 
-Dash semble plus facile à mettre en oeuvre qu'Angular pour les graphiques et les cartes.
+La DRM souhaite mettre en place une application nationale pour mutualiser les moyens des DIR.
+Le projet lancé il y a 10 ans pourrait ne jamais aboutir.
 
-Dans ce document, je capitalise mon expérience et les méthodes utilisées pour développer et mettre en places 
-des applications basées sur Dash & Plotly.
+Comment la DiRIF peut-elle se positionner vis à vis de ce projet ?
+Quelles alternatives peut on envisager ?
+
+Quelles actions, quels acteurs ?
+
+Ces pages visent à capitaliser la réflexion sur le sujet.
 
 
 
