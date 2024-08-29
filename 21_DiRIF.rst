@@ -24,13 +24,13 @@ Trois agents de la DiRIF assurent la maitrise d'ouvrage de la maintenance de SIR
 
 Adéquation fonctionnelle de SIRIUS
 ***************************************
-Les responsables fonctionnels de SIRIUS sont également présents dans cette fonction depuis très longtemps. Ils ont su faire beaucoup de choses au système mais ne l'utilisent pas toujours selon les représentations des concepteurs. Une partie des fonctions introduites initialement dans SIRIUS ne sont plus utilisées.
+Les responsables fonctionnels de SIRIUS sont également à cette  place depuis très longtemps. Ils ont su faire faire beaucoup de choses au système, mais ne l'utilisent pas toujours selon les représentations des concepteurs. Une partie des fonctions introduites initialement dans SIRIUS ne sont plus utilisées ou le sont d'une manière différente de celle qui avait été imaginée.
 
-Ayant acquis une virtuosité de SIRIUS et ne connaissant pas d'autre outil, ils ne sont pas demandeurs d'évolutions significatives. Ils craignent en revanche de se voir imposé un autre SAGT sur lequel ils seront débutants et peineront à reproduire les fonctions qu'ils utilisent aujourd'hui.
+Ayant acquis une virtuosité dans lamanipulation de SIRIUS et ne connaissant pas d'autre outil, les responsables fonctionnels ne sont pas demandeurs d'évolutions significatives. Ils craignent en revanche de se voir imposé un autre SAGT sur lequel ils seront débutants et peineront à reproduire les fonctions qu'ils utilisent aujourd'hui.
 
 La documentation fonctionnelle de SIRIUS n'est plus consultée et ne rend pas bien compte de la manière dont SIRIUS est effectivement utilisé. Cette situation est un obstacle supplémentaire à l'évolution de SIRIUS.
 
-Même une évolution qui se voudrait *isofonctionnelle* rencontrerait des difficultés en l'absence d'une spécification fonctionnelle correspondant à la pratique des utilisateurs.
+Même une évolution qui se voudrait *isofonctionnelle* rencontrerait des difficultés en l'absence d'une spécification fonctionnelle formalisée correspondant à la pratique effective des utilisateurs.
 
 Introduction des données FCD dans SIRIUS
 **********************************************
@@ -41,19 +41,18 @@ La DiRIF utilise les FCD depuis 10 ans environ. Avec la dégradation de la dispo
 Les données FCD sont des données de vitesse moyenne, elles présentent donc un retard de 6 à 20 minutes sur les mesures faites sur le terrain en temps réel. Mais la plus grosse différence tient au fait que les données des points de mesures sont principalement des données de débit et de taux d'occupation alors que les FCD sont des mesures de vitesses.
 
 On aurait pu s'attendre à ce que l'arrivée des FCD donne lieu à une évolution fonctionnelle significative de SIRIUS.
-En fait, les FCD ont été introduite avec le minimum de transformation possible du SI.
+En fait, les FCD ont été introduites avec le minimum de transformation possible du SI.
 Le flux FCD est présenté à SIRIUS comme s'il s'agissait de données issues de stations de comptage classiques.
-Le document de spécification fonctionnel n'a pas été mis à jour.
+Le document de spécification fonctionnel n'a d'ailleurs pas même été mis à jour à cette occasion.
 
-En 2023, lors du renouvellement du marché d'acquisition des données FCD, la DIRIF a ajouté 2000 segments dans le cahier des charges. Cela devait permettre de connaitre le fonctionnement des bretelles et d'autres arc connexe au réseau national.
-
-En dépit de cette extension de 40%, le coût pour la DiRIF a été divisé par 2.
+En 2023, lors du renouvellement du marché d'acquisition des données FCD, la DIRIF a ajouté 2000 segments dans le cahier des charges. Cela devait permettre de connaitre le fonctionnement des bretelles et d'autres arcs connexes au réseau national.  
+En dépit de cette extension de 40% de la commande, le coût pour la DiRIF a été divisé par 2.
 
 Cependant, les données nouvelles n'ont pas pu être intégrées car SIRIUS ne parvenait pas à traiter ce volume supplémentaire de données.
 
-Cette exemple des données FCD montrent que la DiRIF n'est pas organisé pour concevoir des évolutions fonctionnelles significatives de SIRIUS.
+Cet exemple des données FCD montrent que la DiRIF n'est pas organisée pour concevoir des évolutions fonctionnelles significatives de SIRIUS.
 
-Compétences présente à la DiRIF en 2024
+Compétences présentes à la DiRIF en 2024
 *****************************************
 Les équipes de développement qui ont fait SIRIUS ont quitté la DiRIF. Les effectifs qui demeurent sont des exploitants qui font fonctionner SIRIUS.
 
@@ -105,7 +104,10 @@ Les projets de SI sont des projets complexes et il est fréquent que ces projets
 
 Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.
 
+Pour rénover le SAGT de la DIRIF, il faudra certes des crédits, mais il faudra aussi une organisation de la MOA performante. C'est un vrai défi.
 
+Si la solution est un SAGT mutualisé à l'échelle national, la complexité sera plus grande et les moyens de MOA plus importants.
+C'est peu être une ambition irréaliste ou du moins très risquée.
 
 
 
