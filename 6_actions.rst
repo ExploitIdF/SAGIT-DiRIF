@@ -36,14 +36,14 @@ Comme on l'a déjà évoqué, il est nécessaire d'instaurer une maitrise d'ouvr
 
 Pour le DETT, le sujet du SAGT est stratégique et il concerne presque toutes les unités du département. Il y a donc un rôle de pilotage stratégique à ce niveau. Actuellement personne n'est désigné ou identifié pour jouer ce rôle.
 
-Il existe une certaine communication directe entre les unités qui permet d'assurer la continuité du service, mais les arrangements obtenus ne sont pas toujours satisfaisants et gagnerait à être coordonnés par une hiérarchie capable de faire des arbitrages.
+Il existe une certaine communication directe entre les unités qui permet d'assurer la continuité du service, mais les arrangements obtenus ne sont pas toujours satisfaisants et gagneraient à être coordonnés par une hiérarchie capable de faire des arbitrages.
 
 Management des unités
 -----------------------
 Le DETT doit demander aux unités d'expliquer ce qu'elles font. Dans une démarche qualité, il doit faire en sorte que les processus soient explicités. Cela permet aux unités de prendre du recul et au DETT de comprendre l'activité. 
 
 Le DETT doit fixer des objectifs aux unités. 
-Les programmes de travail doivent être explicités et leur réalisation doit être suvie.
+Les programmes de travail doivent être explicités et leur réalisation doit être suivie.
 
 Le DETT doit annimer la coordination entre les unités et suivre les dépendances entre leurs actions respectives.
 
@@ -51,7 +51,7 @@ UIRC
 ======
 UIRC doit participer à l'explicitation des actions.
 
-UIRC doit s'efforcer de remettre en cause certains choix techniques ce qui suppose des sacrifices.
+UIRC doit s'efforcer de remettre en cause certains choix techniques, ce qui suppose des sacrifices.
 
 UCTIR
 =======
@@ -67,7 +67,7 @@ Mise à jours des spécifications fonctionnelles et de la documentation pour les
 ===============================================================================================
 On peut trouver la documentation fonctionnelle si on la cherche, mais cette documentation n'est pas utilisée et les acteurs s'appuient sur leur mémoire ou celle de leurs collègues.
 La documentation fonctionnelle est ancienne et correspond à une représentation des usages qui difère des pratiques.
-Ce à quoi sert SIRIUS effectivement n'est pas formalisé. Les utilisateurs eux-mêmes manque de recul pour expiquer ce qu'ils font.
+Ce à quoi sert SIRIUS effectivement n'est pas formalisé. Les utilisateurs eux-mêmes manquent de recul pour expiquer ce qu'ils font.
 Il y a des différences de comportement et il n'est pas possible de déterminer ce qui est approprié.
 
 Ce travail de clarification sera une référence nécessaire pour spécifier des évolutions fonctionnelles.
@@ -81,7 +81,7 @@ Cela a permis de mettre en évidence une typologie des organisations.
 
 Ce travail mérite d'être prolongé par d'autres échanges et il serait utile de rencontrer des exploitants plus avancés dans ce domaine.
 
-Il est aussi nécessaire que les acteurs de la DiRIF s'approprie les constats et que leurs interrogations reçoivent des réponses appuyées sur des faits.
+Il est aussi nécessaire que les acteurs de la DiRIF s'approprient les constats et que leurs interrogations reçoivent des réponses appuyées sur des faits.
 
 Développement d'un argumentaire sur la méthode de travail choisie par la DMR
 ===============================================================================
