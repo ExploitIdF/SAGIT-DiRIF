@@ -32,20 +32,35 @@ La documentation fonctionnelle n'est plus utilisée et ne rend pas bien compte d
 
 Même une évolution qui se voudrait *isofonctionnelle* rencontrerait des difficultés en l'absence d'une spécification fonctionnelle correspondant à la pratique des utilisateurs.
 
+Introduction des données FCD dans SIRIUS
+**********************************************
+La principale évolution de SIRIUS des 15 dernières années a été l'utilisation des FCD qui se substituent en partie aux points de mesure du trafic.
 
-La capacité à réaliser les développements informatiques peut sans doute être trouvée sur le marché.
-En revanche, l'expertise nécessaire pour mettre à jour la spécification fonctionnelle est plus rare.
-Elle aura besoin de mettre en place un travail implicant les exploitants.
+La DiRIF utilise les FCD depuis 10 ans environ. Avec la dégradation de la disponibilité des données issues des points de mesure du trafic, les FCD sont devenues la principale source d'information sur l'état du réseau. Les FCD ont permis d'étendre le réseau sur lequel la DiRIF peut visualiser l'état du trafic. On dispose de plus de 5000 mesures quand il ne reste plus que 800 points de mesure dont plus de la moitié est hors service.
 
-Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.
+Les données FCD sont des données de vitesse moyenne, elles présentent donc un retard de 6 à 20 minutes sur les mesures faites sur le terrain. Mais la plus grosse différence tient au fait que les données des points de mesures sont principalement des données de débit et de taux d'occupation alors que les FCD sont des mesures de vitesses.
+
+On aurait pu s'attendre à ce que l'arrivée des FCD donne lieu à une évolution fonctionnelle significative de SIRIUS.
+En fait, cette évolution a été introduite avec le minimum de transformation possible di SI.
+Le flux FCD est présenté à SIRIUS comme s'il s'agissait de données issues de stations de comptage classiques.
+Le document de spécification fonctionnel qui date de 20 ans n'a pas été mis à jour.
+
+En 2023, lors du renouvellement du marché d'acquisition des données FCD, la DIRIF a ajouté 2000 segments dans le cahier des charges. Cela devait permettre de connaitre le fonctionnement des bretelles et d'autres arc connexe au réseau national.
+
+En dépit de cette extension de 40%, le coût pour la DiRIF a été divisé par 2.
+
+Cependant, les données nouvelles n'ont pas pu être intégrées car SIRIUS ne parvenait pas à traiter ce volume supplémentaire de données.
+
+Cette exemple des données FCD montrent que la DiRIF n'est pas organisé pour concevoir des évolutions fonctionnelles significatives de SIRIUS.
+
+
+
 
 Compétences présente à la DiRIF en 2024
 *****************************************
 Les équipes de développement qui ont fait SIRIUS ont quitté la DiRIF. Les effectifs sur ces métiers ont fondu.
 
-La principale évolution de SIRIUS des 15 dernières années a été l'utilisation des FCD qui se substituent en partie aux points de mesure du trafic.
-Cette évolution a été introduite avec le minimum de transfirmation possible.
-Le flux FCD est présenté à SIRIUS comme s'il s'agissait de données issues de stations de comptage classiques.
+
 
 Compétences fonctionnelles
 ============================
@@ -82,6 +97,11 @@ C'est donc UIRC qui assure la MOA effective mais il s'agit d'une MOA par défaut
 Comme une partie des fonctionnalités de SIRIUS ne sont pas utilisées, la refonte informatique envisagée en 2021 aurait conduit à reconstruire des branches inutiles du systèmes.
 
 
+La capacité à réaliser les développements informatiques peut sans doute être trouvée sur le marché.
+En revanche, l'expertise nécessaire pour mettre à jour la spécification fonctionnelle est plus rare.
+Elle aura besoin de mettre en place un travail implicant les exploitants.
+
+Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.
 
 
 
