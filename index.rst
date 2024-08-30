@@ -6,6 +6,7 @@ Stratégie SAGT de la DiRIF
    :maxdepth: 3
 
    2_Etat
+   3_mutualisation
    4_Benchmark
    6_actions
 
