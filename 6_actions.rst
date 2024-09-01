@@ -45,7 +45,7 @@ Le DETT doit demander aux unités d'expliquer ce qu'elles font. Dans une démarc
 Le DETT doit fixer des objectifs aux unités. 
 Les programmes de travail doivent être explicités et leur réalisation doit être suivie.
 
-Le DETT doit annimer la coordination entre les unités et suivre les dépendances entre leurs actions respectives.
+Le DETT doit animer la coordination entre les unités et suivre les dépendances entre leurs actions respectives.
 
 UIRC
 ======
@@ -69,9 +69,12 @@ Les actions
 Mise à jours des spécifications fonctionnelles et de la documentation pour les utilisateurs
 ===============================================================================================
 On peut trouver la documentation fonctionnelle si on la cherche, mais cette documentation n'est pas utilisée et les acteurs s'appuient sur leur mémoire ou celle de leurs collègues.
-La documentation fonctionnelle est ancienne et correspond à une représentation des usages qui difère des pratiques.
-Ce à quoi sert SIRIUS effectivement n'est pas formalisé. Les utilisateurs eux-mêmes manquent de recul pour expiquer ce qu'ils font.
-Il y a des différences de comportement et il n'est pas possible de déterminer ce qui est approprié.
+
+La documentation fonctionnelle est ancienne et correspond à une représentation des usages qui diffère des pratiques.
+Ce à quoi sert effectivement SIRIUS n'est pas formalisé. 
+
+Les utilisateurs eux-mêmes manquent de recul pour expliquer ce qu'ils font.
+Il y a des différences de comportement et il n'est pas évident de déterminer ce qui est approprié.
 
 Ce travail de clarification sera une référence nécessaire pour spécifier des évolutions fonctionnelles.
 
@@ -79,7 +82,7 @@ On a observé dans le travail de WaveStone une faiblesse de la structuration des
 
 Benchmark des autres gestionnaires pour l'organisation de la construction et de la gestion du SAGT.
 =====================================================================================================
-Il existe déjà un ambrillon de ce travail sur la base d'échanges avec Vinci, Eiffage, Egis, PTV, Here, Klapsh et Swarco.
+Il existe déjà un Embryon de ce travail sur la base d'échanges avec Vinci, Eiffage, Egis, PTV, Here, Klapsh et Swarco.
 Cela a permis de mettre en évidence une typologie des organisations.
 
 Ce travail mériterait d'être prolongé par d'autres échanges et il serait utile de rencontrer des exploitants plus avancés dans ce domaine.
@@ -98,8 +101,7 @@ Si la DiRIF veut convaincre que la solution de la DMR n'est pas la bonne pour l'
 il faut aussi qu'elle soit en mesure de présenter une alternative avec une justification solide. 
 Il me semble que cette alternative n'existe pas aujourd'hui.
 
-On pourrait dans une premier temps retenir l'un des 3 grands modèles (deux éventuellement) mis en évidence dans le benchmark.
-
+On pourrait dans un premier temps retenir l'un (deux éventuellement) des 3 grands modèles  mis en évidence dans le benchmark.
 On développerait ensuite la mise en oeuvre de ce modèle dans le contexte de la DIRIF. 
 Le chantier peut se faire en plusieurs étapes. 
 Il faut en faire ressortir les composantes et en évaluer les moyens.
