@@ -2,7 +2,7 @@ Mutualisation à l'échelle nationale
 ###########################################
 Une volonté ancienne
 **********************
-La volonté de mutualiser les moyens en matière de SAGT dans le ministère est aussi vielle que les SAGT.
+La volonté de mutualiser les moyens en matière de SAGT dans le ministère est aussi vieille que les SAGT.
 
 On trouve, sur le site du CEREMA, des documents qui rendent compte de travaux coordonnés par le CERTU et le SETRA (aujourd'hui réunis dans le CEREMA) entre 1998 et 2001. Ces travaux répondaient à une commande de la DSCR dont une partie des missions a été reprise par la DMR.
 
@@ -29,8 +29,8 @@ Les recommandations ont été peu suivies, mais la création des DIRs a permis u
 Relance du projet de mutualisation des SAGT entre les DIR
 **************************************************************
 Le sujet de la mutualisation entre les DIR des systèmes d’aide à la gestion du trafic (SAGT) a été relancé en 2013 par DIT/GRT (devenu DMR/PEI). 
-Une note intitulée 
-:download:`Etude amont sur les SAGT - conclusions et orientations stratégiques <_static/180703_-_courrier_dit_etude_amont.pdf>` 
+Une note établissant des orientations, intitulée 
+:download:`Etude amont sur les SAGT - conclusions et orientations stratégiques <_static/180703_-_courrier_dit_etude_amont.pdf>` ,
 a été signée en juillet 2018, par l’adjoint de la DIT.
 
 Par cette note, la DIT décidait la mutualisation des SAGT des DIR, sur la base de la solution SAGACITÉ, déjà mutualisée entre 5 DIR. La DIT envisageait cependant de faire une exception pour la DIRIF au vu des spécificités de l’exploitation en Ile-de-France. La DIT demandait à la DIRIF de comparer un scénario de migration vers SAGACITÉ au scénario de poursuite de la démarche autonome SIRIUS.
@@ -49,7 +49,7 @@ La constitution au sein de la DMR d’une équipe capable de concevoir un SAGT p
 
 Poursuite des travaux en 2024
 *********************************
-La DMR n'a pas formalisé les conclusions qu'elle tire des premières études mais elle a informé les responsables des services de gestion du trafic des DIRs que la création d'un SAGT unique avait été décidé par le comité de pilotage de la transformation numérique.
+La DMR n'a pas formalisé les conclusions qu'elle tire des premières études mais elle a informé les responsables des services de gestion du trafic des DIRs que la création d'un SAGT unique avait été décidée par le comité de pilotage de la transformation numérique.
 
 La DMR a commandé à WaveStone un travail complémentaire qui consiste :
 
@@ -67,14 +67,14 @@ La DMR évoque des scénarios qui sont des options techniques de réutiliation d
 Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux n'a pas de pilote identifié ni de feuille de route connue.
 
 Les DIR sont sollicitées pour participer à des ateliers, mais elles ne comprennent pas à quoi servent les actions qui sont menées. 
-La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas de correspondants identifiés pour le projet, en de hors du chef de service de gestion du trafic.
+La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas dans les DIR de correspondant identifié pour le projet, en dehors du chef de service de gestion du trafic.
 
 Les immertions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet.
 
-L'AMO WaveStone est un appui pour l'organisation de réunions et la rédaction de compte-rendus, mais elle ne comporte pas de compétence métier.
-Elle n'est pas une MOE du projet. En outre, WaveStone n'est pas chargé d'une mission durable mais de prestations poncutuelles.
+L'AMO WaveStone est un appui pour l'organisation de réunions et pour la rédaction de compte-rendus, mais elle ne comporte pas de compétence métier.
+Elle n'est pas une MOE du projet. En outre, WaveStone n'est pas chargé d'une mission durable, mais de prestations poncutuelles.
 
-
+Sur la base des informations dont dispose la DiRIF qui est l'un des princpaux interessés, on peut prévoir que la démarche telle qu'elle est envisagée actuellement ne pourra pas remplacer SIRIUS.
 
 
 
