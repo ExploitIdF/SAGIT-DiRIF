@@ -29,7 +29,7 @@ Les recommandations ont été peu suivies, mais la création des DIRs a permis u
 Relance du projet de mutualisation des SAGT entre les DIR
 **************************************************************
 Le sujet de la mutualisation entre les DIR des systèmes d’aide à la gestion du trafic (SAGT) a été relancé en 2013 par DIT/GRT (devenu DMR/PEI). 
- Une note intitulée « `Etude amont sur les SAGT - conclusions et orientations stratégiques <180703_-_courrier_dit_etude_amont.pdf>`_ a été signée en juillet 2018, par l’adjoint de la DIT.
+ Une note intitulée :download:`Etude amont sur les SAGT - conclusions et orientations stratégiques <180703_-_courrier_dit_etude_amont.pdf>` a été signée en juillet 2018, par l’adjoint de la DIT.
 
 Par cette note, la DIT décidait la mutualisation des SAGT des DIR, sur la base de la solution SAGACITÉ, déjà mutualisée entre 5 DIR. La DIT envisageait cependant de faire une exception pour la DIRIF au vu des spécificités de l’exploitation en Ile-de-France. La DIT demandait à la DIRIF de comparer un scénario de migration vers SAGACITÉ au scénario de poursuite de la démarche autonome SIRIUS.
 
