@@ -62,11 +62,11 @@ Faiblesses du projet de mutualisation
 *******************************************
 Force est de constater que le projet de mutualisation relancé en 2013 n'a rien produit pour ce qui concerne l'intégration des besoins de la DiRIF.
 
-La DMR évoque des scénarios qui sont des options technique de réutiliation du logiciel SAGACITE ou la construction d'un logiciel entièrement neuf, mais le sujet de la gouvenance n'ets pas abordé.
+La DMR évoque des scénarios qui sont des options techniques de réutiliation du logiciel SAGACITE ou de construction d'un logiciel entièrement neuf, mais le sujet de la gouvenance n'est pas abordé.
 
-Aujourd'hui on observe que la démarche alors qu'elle constitue un projet très ambitieux n'a pas de pilote identifié ni de feuille de route.
+Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux n'a pas de pilote identifié ni de feuille de route connue.
 
-Les DIR sont sollicitées pour participer à des ateliers, mais elle ne comprennent pas à quoi serve les actions qui sont menées. 
+Les DIR sont sollicitées pour participer à des ateliers, mais elles ne comprennent pas à quoi servent les actions qui sont menées. 
 La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas de correspondants identifiés pour le projet, en de hors du chef de service de gestion du trafic.
 
 Les immertions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet.
