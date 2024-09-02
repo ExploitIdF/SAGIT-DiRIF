@@ -29,12 +29,12 @@ Les recommandations ont été peu suivies, mais la création des DIRs a permis u
 Relance du projet de mutualisation des SAGT entre les DIR
 **************************************************************
 Le sujet de la mutualisation entre les DIR des systèmes d’aide à la gestion du trafic (SAGT) a été relancé en 2013 par DIT/GRT (devenu DMR/PEI). 
- Une note intitulée :download:`Etude amont sur les SAGT - conclusions et orientations stratégiques <180703_-_courrier_dit_etude_amont.pdf>` a été signée en juillet 2018, par l’adjoint de la DIT.
+ Une note intitulée :download: `Etude amont sur les SAGT - conclusions et orientations stratégiques <180703_-_courrier_dit_etude_amont.pdf>` a été signée en juillet 2018, par l’adjoint de la DIT.
 
 Par cette note, la DIT décidait la mutualisation des SAGT des DIR, sur la base de la solution SAGACITÉ, déjà mutualisée entre 5 DIR. La DIT envisageait cependant de faire une exception pour la DIRIF au vu des spécificités de l’exploitation en Ile-de-France. La DIT demandait à la DIRIF de comparer un scénario de migration vers SAGACITÉ au scénario de poursuite de la démarche autonome SIRIUS.
 
 Au cours des échanges qui ont suivi entre DIT et DIRIF, sur la base des études de comparaison des deux scénarios, la DIRIF a montré les difficultés que présenterait l’adoption de SAGACITÉ. La DIT a néanmoins affirmé, lors d’une réunion en mars 2021, que SAGACITÉ devait être la cible à moyen terme.
-La DIRIF a exposé dans une note du 15/10/2021 :download:`Stratégie de modernisation de SIRIUS <_static/strat%C3%A9gie%20de%20modernisation%20de%20Sirius%20-%20note%20DIRIF-STT%20-%2015-10-21.pdf>` la synthèse des difficultés que présenterait l’adoption de SAGACITÉ. L’insuffisance des moyens de MOA pour l’évolution de SAGACITÉ était identifiée. En conclusion, la DIRIF préconisait de faire évoluer SIRIUS en faisant en sorte qu’il puisse partager des modules avec SAGACITE.
+La DIRIF a exposé dans une note du 15/10/2021 :download: `Stratégie de modernisation de SIRIUS <_static/strat%C3%A9gie%20de%20modernisation%20de%20Sirius%20-%20note%20DIRIF-STT%20-%2015-10-21.pdf>` la synthèse des difficultés que présenterait l’adoption de SAGACITÉ. L’insuffisance des moyens de MOA pour l’évolution de SAGACITÉ était identifiée. En conclusion, la DIRIF préconisait de faire évoluer SIRIUS en faisant en sorte qu’il puisse partager des modules avec SAGACITE.
 
 Depuis 2021, les travaux d’évolution de SAGACITÉ pour répondre aux besoins de la DIRIF n’ont pas avancé et on observe par ailleurs que les DIR utilisatrices de SAGACITÉ rencontrent d’importantes difficultés.
 Constatant ces difficultés, la DMR a relancé une réflexion en 2023, pour écrire la feuille de route pour les prochaines années du développement et du déploiement de SAGACITÉ dans les DIR. 
