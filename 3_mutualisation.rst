@@ -19,17 +19,19 @@ Les MOA des SAGT étaient alors les DDE.
 Les documents n'allaient pas jusqu'à préconiser le développement d'un SAGT national mais faisaient des recommandations dont les suivantes :
 
 * Prévoir des clauses contractuelles permettant la réutilisation des spécifications et des développements au sein du ministère.
-* Mettre en place des moyens centraliser au ministère pour assurer le partage de la documentation sur les SAGT existant ou en développement.
+* Mettre en place des moyens centralisés, au ministère, pour assurer le partage de la documentation sur les SAGT existants ou en développement.
 * Utiliser autant que possible des progiciels plutot que des développements spécifiques plus coûteux à maintenir.
 * Normaliser la spécification des SAGT.
 
-Les recommandations ont été peu suivies, mais la création des DIRs a permis une mutualisation à leur niveau.
+Les recommandations ont été peu suivies, la démarche est sans doute passée au second plan avec le projet de création des DIR.
+
+Cette création des DIRs a permis, dans certains cas, une mutualisation à leur niveau.
 
 
 Relance du projet de mutualisation des SAGT entre les DIR
 **************************************************************
-Le sujet de la mutualisation entre les DIR des systèmes d’aide à la gestion du trafic (SAGT) a été relancé en 2013 par DIT/GRT (devenu DMR/PEI). 
-Une note établissant des orientations, intitulée 
+Le sujet de la mutualisation entre les DIR des systèmes d’aide à la gestion du trafic (SAGT) a été réouvert en 2013 par DIT/GRT (devenu DMR/PEI). 
+Sur la base d'études préliminaires, une note établissant des orientations, intitulée 
 :download:`Etude amont sur les SAGT - conclusions et orientations stratégiques <_static/180703_-_courrier_dit_etude_amont.pdf>` ,
 a été signée en juillet 2018, par l’adjoint de la DIT.
 
@@ -53,8 +55,8 @@ La DMR n'a pas formalisé les conclusions qu'elle tire des premières études ma
 
 La DMR a commandé à WaveStone un travail complémentaire qui consiste :
 
-* à organiser 3 immersions de représentant des DIR dans les environnement SAGACITE,  MARIUS (DIRMED) et SIRIUS (DIRIF).
-* à animer des ateliers en septembre avec des représentants des DIR pour conclure en octobre sur le scénario de création du SAGT national.
+* à organiser 3 *immersions* de représentant des DIR dans les environnements SAGACITE,  MARIUS (DIRMED) et SIRIUS (DIRIF).
+* à animer des ateliers en septembre avec des représentants des DIR, pour conclure en octobre sur le scénario de création du SAGT national.
 
 L'information des DIR a été faite au travers du groupe des chefs de services de gestion du trafic (GCSGT) et du groupe des directeurs adjoints exploitation (DAE).
 
@@ -64,12 +66,12 @@ Force est de constater que le projet de mutualisation relancé en 2013 n'a rien 
 
 La DMR évoque des scénarios qui sont des options techniques de réutiliation du logiciel SAGACITE ou de construction d'un logiciel entièrement neuf, mais le sujet de la gouvenance n'est pas abordé.
 
-Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux n'a pas de pilote identifié ni de feuille de route connue.
+Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux, n'a pas de pilote identifié ni de feuille de route connue.
 
 Les DIR sont sollicitées pour participer à des ateliers, mais elles ne comprennent pas à quoi servent les actions qui sont menées. 
 La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas dans les DIR de correspondant identifié pour le projet, en dehors du chef de service de gestion du trafic.
 
-Les immertions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet.
+Les immertions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet. Les représentants des DIR sont le plus souvent des personnes intervenant dans l'exploitation disponibles et volontaires pour participer à l'une des immersions. Ce ne sont pas des acteurs responsabilisés dans la démarche et composant une forme d'équipe de MOA.
 
 L'AMO WaveStone est un appui pour l'organisation de réunions et pour la rédaction de compte-rendus, mais elle ne comporte pas de compétence métier.
 Elle n'est pas une MOE du projet. En outre, WaveStone n'est pas chargé d'une mission durable, mais de prestations poncutuelles.
