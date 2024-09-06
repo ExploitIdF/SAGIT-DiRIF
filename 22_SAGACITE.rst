@@ -32,7 +32,7 @@ L'hébergement est assuré par chacune des DIR "sur site" et non dans le Cloud.
 
 Gouvernance
 ***************
-La gouvernance est encadrée par une :download:`convention de groupement de commande <_static/pdf/sagacite-cgc-_groupement_de_commandes.pdf>` 
+La gouvernance de SAGACITE est encadrée par une :download:`convention de groupement de commande <_static/pdf/sagacite-cgc-_groupement_de_commandes.pdf>` 
 et par une :download:`charte <charte_sagacite-vd.pdf>`.
 
 L'organisation précise et les rôles de chaque acteur sont définis dans un :download:`Plan de management de projet <_static/pdf/saga-pmp-v4.pdf>`
