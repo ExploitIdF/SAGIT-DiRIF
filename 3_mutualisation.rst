@@ -74,11 +74,13 @@ L'information des DIR a été faite au travers du groupe des chefs de services d
 
 Faiblesses du projet de mutualisation
 *******************************************
-Force est de constater que le projet de mutualisation relancé en 2013 n'a rien produit pour ce qui concerne l'intégration des besoins de la DiRIF.
+Force est de constater que le projet de mutualisation relancé en 2013 n'a rien produit pour ce qui concerne l'intégration des besoins de la DiRIF dans SAGACITE.
 
 La DMR évoque des scénarios qui sont des options techniques de réutiliation du logiciel SAGACITE ou de construction d'un logiciel entièrement neuf, mais le sujet de la gouvenance n'est pas abordé.
 
-Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux, n'a pas de pilote identifié ni de feuille de route connue.
+Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux, n'a pas de pilote identifié. 
+Les unités qui portent la MOA des SAGT ne voient pas la trajectoire qui pourrait être suivie. 
+Ils ne sont pas coordonnés par une direction informatique commune qui pourrait guider un travail technique.
 
 Les DIR sont sollicitées pour participer à des ateliers, mais elles ne comprennent pas à quoi servent les actions qui sont menées. 
 La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas dans les DIR de correspondant identifié pour le projet, en dehors du chef de service de gestion du trafic.
