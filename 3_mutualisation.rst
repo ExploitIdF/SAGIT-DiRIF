@@ -50,18 +50,15 @@ En 2021, SAGACITE a renforcé sa gouvernance sur la base d'une convention de gro
 
 Etudes Wavestone commandées par la DMR en 2023
 ***************************************************
-SAGACITE est
 La DMR a considéré que l'organisation du projet SAGACITE n'était pas adpatée à la réussite de la mutualisation du SAGT pour toutes les DIRs.
 Elle a choisi de confier au cabinet Wavestone des études stratégiques qu'elle a piloté en direct. 
 
-
-
-
-Constatant ces difficultés, la DMR a relancé une réflexion en 2023, pour écrire la feuille de route pour les prochaines années du développement et du déploiement de SAGACITÉ dans les DIR. 
+L'objectif affiché est d'écrire la feuille de route pour les prochaines années du développement et du déploiement de SAGACITÉ dans les DIR. 
 
 La DMR a confié, début 2023, deux études au cabinet Wavestone. L’une porte spécifiquement sur les besoins de la DIRIF, l’autre porte sur le périmètre national et doit fournir les éléments nécessaires à la feuille de route. 
 
 Les études montrent que le projet de mutualisation nécessite des développements significatifs et peut-être même une reconstruction complète de SAGACITÉ. Pour bien cerner et répondre aux besoins avérés des DIR, la DMR devrait mobiliser des moyens importants de MOA au niveau central. La DMR reconnaît qu’elle ne dispose pas des moyens de pilotage de la démarche, mais ne renonce pas pour autant à l’objectif de mutualisation.
+
 La constitution au sein de la DMR d’une équipe capable de concevoir un SAGT polyvalent et de l’adapter aux spécificités des DIR est sans doute un objectif très ambitieux, alors que les compétences requises sont rares dans l’administration. 
 
 Poursuite des travaux en 2024
