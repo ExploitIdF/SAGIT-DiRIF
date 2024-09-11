@@ -12,7 +12,7 @@ Stratégie SAGT de la DiRIF
 
 Le SAGT SIRIUS a été développé dans les annnées 1990-2005, avant la création de la DiRIF. 
 
-SIRIUS repose sur des technologies anciennes et ses composants logiciels sont difficiles à maintenir et à faire évoluer.
+SIRIUS repose sur des technologies anciennes et ses composants logiciels sont obsolètes et difficiles à faire évoluer.
 
 La DMR (direction des mobilités routières qui supervise les DIRs) souhaite mettre en place une application SAGT nationale pour mutualiser les moyens des DIR.
 La DMR sousestime la difficulté que représente l'unification des SI de plusieurs structures.
@@ -28,8 +28,6 @@ Le projet, relancé il y a 10 ans par la DMR, risque fort de ne jamais aboutir p
 Quelles sont les faiblesses de la méthode utilisée par la DMR ?
 
 Comment la DiRIF peut-elle se positionner vis à vis de ce projet ?
-
-Quelles alternatives peut on envisager ?
 
 Quelles actions, quels acteurs ?
 
