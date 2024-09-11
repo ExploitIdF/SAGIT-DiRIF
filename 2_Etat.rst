@@ -12,6 +12,6 @@ Etat des lieux
 
 Dans cette partie, on rassemblera notre connaissance de la situation actuelle.
 
-* à la DiRIF
+* :doc:`à la DiRIF<21_DiRIF>`
 * dans les autres DIRs
 * chez les autres gestionaires de réseaux routiers
