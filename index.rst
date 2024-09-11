@@ -15,9 +15,13 @@ Le SAGT SIRIUS a été développé dans les annnées 1990-2005, avant la créati
 SIRIUS repose sur des technologies anciennes et ses composants logiciels sont difficiles à maintenir et à faire évoluer.
 
 La DMR (direction des mobilités routières qui supervise les DIRs) souhaite mettre en place une application SAGT nationale pour mutualiser les moyens des DIR.
-L'organisation et les moyens que la DMR envisage de déployer pour ce projet sont inadaptés.
+La DMR sousestime la difficulté que représente l'unification des SI de plusieurs structures.
 
-Il y a 30 ans, la DSCR avait déjà confié au SETRA (devenu CEREMA) une mission similaire dont les préconisations n'ont pas été mises en oeuvre. 
+L'organisation actuelle du pilotage des SAGT par les DIR ne permet pas de réaliser une évolution aussi profonde pour la DiRIF. 
+Pour permettre un tel projet une fusion des services informatiques des DIR, sous l'autorité d'un directeur, serait sans doute nécessaire. 
+
+Il y a 30 ans, la DSCR avait déjà confié au SETRA (devenu CEREMA) une mission sur la mise en place des SAGT dans les DDE.
+Les préconisations produites alors n'avaient pas été mises en oeuvre. 
 
 Le projet, relancé il y a 10 ans par la DMR, risque fort de ne jamais aboutir pour ce qui concerne son application à la DIRIF.
 
