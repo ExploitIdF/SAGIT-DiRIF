@@ -50,7 +50,9 @@ En 2021, SAGACITE a renforcé sa gouvernance sur la base d'une convention de gro
 
 Etudes Wavestone commandées par la DMR en 2023
 ***************************************************
-La DMR a considéré que l'organisation du projet SAGACITE n'était pas adpatée à la réussite de la mutualisation du SAGT pour toutes les DIRs.
+La DMR aurait pu s'appuyer sur la MOA opérationnelle du projet SAGACITE et sur ses moyens d'AMO pour élaborer un plan permettant d'élargir le champ de SAGACITE au périmètre de la DiRIF.
+
+Cependant, la DMR a considéré que l'organisation du projet SAGACITE n'était pas adpatée à la réussite de la mutualisation du SAGT pour toutes les DIRs.
 Elle a choisi de confier au cabinet Wavestone des études stratégiques qu'elle a piloté en direct. 
 
 L'objectif affiché est d'écrire la feuille de route pour les prochaines années du développement et du déploiement de SAGACITÉ dans les DIR. 
@@ -76,7 +78,8 @@ Faiblesses du projet de mutualisation
 *******************************************
 Force est de constater que le projet de mutualisation relancé en 2013 n'a rien produit pour ce qui concerne l'intégration des besoins de la DiRIF dans SAGACITE.
 
-La DMR évoque des scénarios qui sont des options techniques de réutiliation du logiciel SAGACITE ou de construction d'un logiciel entièrement neuf, mais le sujet de la gouvenance n'est pas abordé.
+La DMR évoque des scénarios qui sont des options techniques de réutilisation du logiciel SAGACITE ou de construction d'un logiciel entièrement neuf, 
+mais le sujet de la gouvernance n'est pas abordé.
 
 Aujourd'hui on observe que la démarche, alors qu'elle constitue un projet très ambitieux, n'a pas de pilote identifié. 
 Les unités qui portent la MOA des SAGT ne voient pas la trajectoire qui pourrait être suivie. 
@@ -85,12 +88,12 @@ Ils ne sont pas coordonnés par une direction informatique commune qui pourrait 
 Les DIR sont sollicitées pour participer à des ateliers, mais elles ne comprennent pas à quoi servent les actions qui sont menées. 
 La DMR n'a pas formalisé les rôles que doivent jouer les DIR et il n'y a pas dans les DIR de correspondant identifié pour le projet, en dehors du chef de service de gestion du trafic.
 
-Les immertions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet. Les représentants des DIR sont le plus souvent des personnes intervenant dans l'exploitation disponibles et volontaires pour participer à l'une des immersions. Ce ne sont pas des acteurs responsabilisés dans la démarche et composant une forme d'équipe de MOA.
+Les immersions mobilisent des moyens humains significatifs, mais ne donne pas lieu à des livrables et on ne comprend pas à quoi elles servent dans le cadre du projet. Les représentants des DIR sont le plus souvent des personnes intervenant dans l'exploitation disponibles et volontaires pour participer à l'une des immersions. Ce ne sont pas des acteurs responsabilisés dans la démarche et composant une forme d'équipe de MOA.
 
-L'AMO WaveStone est un appui pour l'organisation de réunions et pour la rédaction de compte-rendus, mais elle ne comporte pas de compétence métier.
-Elle n'est pas une MOE du projet. En outre, WaveStone n'est pas chargé d'une mission durable, mais de prestations poncutuelles.
+L'AMO WaveStone est un appui pour l'organisation de réunions et pour la rédaction de comptes-rendus, mais elle ne comporte pas de compétence métier.
+Elle n'est pas une MOE du projet. En outre, WaveStone n'est pas chargé d'une mission durable, mais de prestations ponctuelles.
 
-Sur la base des informations dont dispose la DiRIF qui est l'un des princpaux interessés, on peut prévoir que la démarche telle qu'elle est envisagée actuellement ne pourra pas remplacer SIRIUS.
+Sur la base des informations dont dispose la DiRIF qui est l'un des principaux intéressés, on peut prévoir que la démarche telle qu'elle est envisagée actuellement ne pourra pas remplacer SIRIUS.
 
 
 
