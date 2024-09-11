@@ -26,7 +26,7 @@ Défendre et négocier la stratégie avec la DMR
 Le travail fait dans les groupes initiés par la DMR est cadré par des décisions prises au niveau des directeurs des DIRs et de la DMR.
 La DMR, interpelée sur certains sujets, rappelle que des réponses ont déjà été apportées à ce niveau et qu'elles ne doivent pas être discutées ou remises en cause.
 
-Quand cela est justifié la direction pourraint néanmoins demander de réouvrir le débat au niveau supérieur.
+Quand cela est justifié la direction pourrait néanmoins demander de réouvrir le débat au niveau supérieur.
 
 STT/DETT
 ==============
@@ -36,7 +36,7 @@ Comme on l'a déjà évoqué, il est nécessaire d'instaurer une maitrise d'ouvr
 
 Pour le DETT, le sujet du SAGT est stratégique et il concerne presque toutes les unités du département. Il y a donc un rôle de pilotage stratégique à ce niveau. Actuellement, personne n'est désigné ou identifié pour jouer ce rôle.
 
-Il existe une communication directe entre les unités du DETT. Ce fonctionnement qui permet d'assurer la continuité du service, mais les arrangements obtenus ne sont pas toujours satisfaisants et gagneraient à être coordonnés par une hiérarchie capable de faire des arbitrages.
+Il existe une communication directe entre les unités du DETT. Ce fonctionnement permet d'assurer la continuité du service, mais les arrangements obtenus ne sont pas toujours satisfaisants et gagneraient à être coordonnés par une hiérarchie capable de faire des arbitrages.
 
 Management des unités
 -----------------------
@@ -49,11 +49,11 @@ Le DETT doit animer la coordination entre les unités et suivre les dépendances
 
 UIRC
 ======
-UIRC doit participer à l'explicitation des actions dans un dialogue avec les autres antités du DETT.
+UIRC doit participer à l'explicitation des actions dans un dialogue avec les autres entités du DETT.
 
 UIRC doit participer à la mise à jour de la documentation.
 
-UIRC doit s'efforcer de remettre en cause certains choix techniques, ce qui suppose des sacrifices.
+UIRC doit s'efforcer de remettre en cause certains choix techniques.
 
 UCTIR
 =======
@@ -68,17 +68,20 @@ Les actions
 *************
 Mise à jours des spécifications fonctionnelles et de la documentation pour les utilisateurs
 ===============================================================================================
-On peut trouver la documentation fonctionnelle si on la cherche, mais cette documentation n'est pas utilisée et les acteurs s'appuient sur leur mémoire ou celle de leurs collègues.
+On peut trouver la documentation fonctionnelle si on la cherche, mais cette documentation n'est pas utilisée et 
+les utilisateurs de SIRIUS s'appuient sur leur mémoire ou celle de leurs collègues.
 
 La documentation fonctionnelle est ancienne et correspond à une représentation des usages qui diffère des pratiques.
-Ce à quoi sert effectivement SIRIUS n'est pas formalisé. 
+Ce à quoi sert effectivement SIRIUS aujourd'hui n'est pas formalisé. 
 
 Les utilisateurs eux-mêmes manquent de recul pour expliquer ce qu'ils font.
 Il y a des différences de comportement et il n'est pas évident de déterminer ce qui est approprié.
 
 Ce travail de clarification sera une référence nécessaire pour spécifier des évolutions fonctionnelles.
 
-On a observé dans le travail de WaveStone une faiblesse de la structuration des besoins fonctionnels. Cela montre que ce travail est à la fois nécessaire et difficile. Il demande une implication des unités mais aussi l'appui d'une AMO compétente.
+On a observé dans le travail de WaveStone une faiblesse de la structuration des besoins fonctionnels. 
+Cela montre que ce travail est à la fois nécessaire et difficile. 
+Il demande une implication des unités mais aussi l'appui d'une AMO compétente.
 
 Benchmark des autres gestionnaires pour l'organisation de la construction et de la gestion du SAGT.
 =====================================================================================================
