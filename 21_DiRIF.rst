@@ -4,12 +4,14 @@ SIRIUS, le SAGT de la DiRIF
 Création de SIRIUS
 **********************
 Dans les années 1990-2005, des investissements considérables ont été consacrés à la gestion du trafic, sur le réseau routier national de l'Ile de France.
-Sur la partie la plus dense du réseau, des points de mesures du trafic ont été implantés tous les 500 mètres. 
-Un SAGT a été conçu de toutes pièces avec des moyens d'ingénierie propres et le recours à des sociétés de services.
-Une telle réalisation était inédite en 2000.
+Sur la partie la plus dense du réseau, des points de mesure du trafic ont été implantés tous les 500 mètres. 
+Un SAGT a été conçu de toutes pièces avec des moyens d'ingénierie propres 
+et le recours à des sociétés de services.
+Une telle réalisation était excetionnelle en 2000.
 
 Pour construire SIRIUS il a fallu un travail de conception fonctionnelle d'une part et le développement du SI d'autre part.
-Ce chantier a reposé sur des équipes de MOA nombreuses qui ont été dispersées une fois le travail achevé.
+Ce chantier a reposé sur des équipes de MOA nombreuses (USSO : Unité de la stratégie et des systèmes opérationnels)  
+qui ont été dispersées une fois le travail achevé.
 
 Evolutions de SIRIUS et notamment FCD
 ***************************************
@@ -17,7 +19,8 @@ Après la mise en place du socle logiciel initial, SIRIUS n'a connu que des évo
 Cela s'explique par la richesse de l'outil, mais aussi par la réduction des moyens humains et financiers.
 
 Une fois la dynamique cassées, il est difficile de changer de régime. 
-Les évolutions qui ont été faites étaient des réponses à des besoins particuliers comme la création de voies réservées ou le projet C-ITS SCOOP.
+Les évolutions qui ont été faites étaient des réponses à des besoins particuliers comme la création de voies réservées 
+ou le projet C-ITS SCOOP.
 
 Il n'existe pas de feuille de route des évolutions fonctionnelles, comme c'est le cas pour SAGACITE. 
 L'une des raisons est que l'on ne dispose pas des moyens de cette reflexion.
@@ -38,9 +41,11 @@ En 2023, lors du renouvellement du marché d'acquisition des données FCD, la DI
 Cela devait permettre de connaitre le fonctionnement des bretelles et d'autres arcs connexes au réseau national.  
 En dépit de cette extension de 40% de la commande, le coût d'acquisition pour la DiRIF a été divisé par 2.
 
-Cependant, les données nouvelles n'ont pas pu être intégrées car SIRIUS ne parvenait pas à traiter ce volume supplémentaire de données.
+Cependant, les données nouvelles n'ont pas été intégrées Dans SIRIUS. 
+On a pensé que SIRIUS ne parvenait pas à traiter ce volume supplémentaire de données, mais il s'agit plutot d'une mauvaise coordination
+des acteurs.
 
-Cet exemple des données FCD montre que la DiRIF n'avait plus les moyens concevoir une évolution fonctionnelle significative de SIRIUS et de tirer toute la valeur potentielle d'une évolution technologique telle que les FCD.
+Cet exemple des données FCD montre que la DiRIF n'a plus les moyens concevoir une évolution fonctionnelle significative de SIRIUS et de tirer toute la valeur potentielle d'une évolution technologique telle que les FCD.
 
 Maintenance de SIRIUS
 ************************
@@ -91,9 +96,9 @@ Compétences informatiques
 ============================
 Au sein d'UIRC, plusieurs agents travaillent avec SIRIUS depuis plus de 20 ans. 
 Ces personnes détiennent la compétence critique de maintenir SIRIUS en fonctionnement. 
-Avec la vetusté des composants logiciels, leur expertise est de plus en plus nécessaire et difficile à substituer.
+Avec l'obsolescence croissante des composants logiciels, leur expertise est de plus en plus nécessaire et difficile à substituer.
 
-Pour ces personnes, la disparition de SIRIUS imposera une reconvertion.
+Pour ces personnes, la disparition de SIRIUS imposera une reconvertion qui sera aussi un enrichissement des tâches.
 
 La maîtrise d'ouvrage
 **********************
@@ -135,7 +140,7 @@ Besoin de reconstruire une MOA
 ================================
 Les projets de SI sont des projets complexes et il est fréquent que ces projets échouent, après avoir consommé des crédits importants. 
 La principale cause des échecs est la faiblesse de la MOA. 
-C'est particulièrement vrai dans le secteur public qui a du mal à recruter des informaticiens expérimentés.
+C'est particulièrement vrai dans le secteur public qui a du mal à recruter des ingénieurs expérimentés.
 
 Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.
 
