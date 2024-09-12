@@ -1,5 +1,5 @@
 
-project = 'Doc surles app Dash Plotly'
+project = 'SAGT - DIRIF'
 copyright = '2043, on'
 author = 'on'
 release = ''
