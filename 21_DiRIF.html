@@ -1,0 +1,455 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="./">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="genindex.html" /><link rel="search" title="Search" href="search.html" /><link rel="next" title="SAGACITE" href="22_SAGACITE.html" /><link rel="prev" title="Etat des lieux" href="2_Etat.html" />
+
+    <link rel="shortcut icon" href="_static/logoS.png"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+        <title>SIRIUS, le SAGT de la DiRIF - SAGT - DIRIF documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?v=354aac6f" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?v=302659d7" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="index.html"><div class="brand">SAGT - DIRIF  documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="_static/logoSirius.jpg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="_static/logoSirius.jpg" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="2_Etat.html">Etat des lieux</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of Etat des lieux</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">SIRIUS, le SAGT de la DiRIF</a></li>
+<li class="toctree-l2"><a class="reference internal" href="22_SAGACITE.html">SAGACITE</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="3_mutualisation.html">Mutualisation à l’échelle nationale</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4_Benchmark.html">Benchmark des organisations des exploitants pour la construction de leur SAGT</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6_actions.html">Actions à mener par la DiRIF</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="_sources/21_DiRIF.rst.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section id="sirius-le-sagt-de-la-dirif">
+<h1>SIRIUS, le SAGT de la DiRIF<a class="headerlink" href="#sirius-le-sagt-de-la-dirif" title="Link to this heading">¶</a></h1>
+<section id="creation-de-sirius">
+<h2>Création de SIRIUS<a class="headerlink" href="#creation-de-sirius" title="Link to this heading">¶</a></h2>
+<p>Dans les années 1990-2005, des investissements considérables ont été consacrés à la gestion du trafic, sur le réseau routier national de l’Ile de France.
+Sur la partie la plus dense du réseau, des points de mesure du trafic ont été implantés tous les 500 mètres.
+Un SAGT a été conçu de toutes pièces avec des moyens d’ingénierie propres
+et le recours à des sociétés de services.
+Une telle réalisation était excetionnelle en 2000.</p>
+<p>Pour construire SIRIUS il a fallu un travail de conception fonctionnelle d’une part et le développement du SI d’autre part.
+Ce chantier a reposé sur des équipes de MOA nombreuses (USSO : Unité de la stratégie et des systèmes opérationnels)
+qui ont été dispersées une fois le travail achevé.</p>
+</section>
+<section id="evolutions-de-sirius-et-notamment-fcd">
+<h2>Evolutions de SIRIUS et notamment FCD<a class="headerlink" href="#evolutions-de-sirius-et-notamment-fcd" title="Link to this heading">¶</a></h2>
+<p>Après la mise en place du socle logiciel initial, SIRIUS n’a connu que des évolutions limitées.
+Cela s’explique par la richesse de l’outil, mais aussi par la réduction des moyens humains et financiers.</p>
+<p>Une fois la dynamique cassées, il est difficile de changer de régime.
+Les évolutions qui ont été faites étaient des réponses à des besoins particuliers comme la création de voies réservées
+ou le projet C-ITS SCOOP.</p>
+<p>Il n’existe pas de feuille de route des évolutions fonctionnelles, comme c’est le cas pour SAGACITE.
+L’une des raisons est que l’on ne dispose pas des moyens de cette reflexion.</p>
+<p>La principale évolution fonctionnelle de SIRIUS des 15 dernières années a été l’utilisation des FCD qui se substituent en partie aux points de mesure du trafic.</p>
+<p>La DiRIF utilise les FCD depuis 10 ans environ. Avec la dégradation de la disponibilité des données issues des points de mesure du trafic, les FCD sont devenues la principale source d’information sur l’état du trafic sur le réseau. Les FCD ont permis d’étendre le périmètre sur lequel la DiRIF peut visualiser l’état du trafic.
+On dispose de plus de 5000 ségments FCD, quand il ne reste plus que 800 points de mesure par boucles, dont plus de la moitié est hors service.</p>
+<p>Les données FCD sont des données de vitesse moyenne, elles présentent donc un retard de 6 à 20 minutes sur les mesures faites sur le terrain en temps réel. Mais la plus grosse différence tient au fait que les données des points de mesures sont principalement des données de débit et de taux d’occupation alors que les FCD sont des mesures de vitesses.</p>
+<p>On aurait pu s’attendre à ce que l’arrivée des FCD donne lieu à une évolution fonctionnelle significative de SIRIUS pour tenir compte de leurs spécificités.
+En fait, les FCD ont été introduites avec le minimum de transformation possible du SI.
+Le flux FCD est présenté à SIRIUS comme s’il s’agissait de données issues de stations de comptage classiques.
+Le document de spécification fonctionnel n’a d’ailleurs pas même été mis à jour à cette occasion.</p>
+<p>En 2023, lors du renouvellement du marché d’acquisition des données FCD, la DIRIF a ajouté 2000 segments dans le cahier des charges.
+Cela devait permettre de connaitre le fonctionnement des bretelles et d’autres arcs connexes au réseau national.
+En dépit de cette extension de 40% de la commande, le coût d’acquisition pour la DiRIF a été divisé par 2.</p>
+<p>Cependant, les données nouvelles n’ont pas été intégrées Dans SIRIUS.
+On a pensé que SIRIUS ne parvenait pas à traiter ce volume supplémentaire de données, mais il s’agit plutot d’une mauvaise coordination
+des acteurs.</p>
+<p>Cet exemple des données FCD montre que la DiRIF n’a plus les moyens concevoir une évolution fonctionnelle significative de SIRIUS et de tirer toute la valeur potentielle d’une évolution technologique telle que les FCD.</p>
+</section>
+<section id="maintenance-de-sirius">
+<h2>Maintenance de SIRIUS<a class="headerlink" href="#maintenance-de-sirius" title="Link to this heading">¶</a></h2>
+<p>Les outils informatiques (systèmes d’exploitation, gestionnaires de bases de données, utilitaires …) sur lesquels repose un SI évoluent.
+Cela impose en principe d’adapter les codes des applications tous les 5 à 10 ans.
+Les logiciels modernes sont plus fiables, plus flexibles, plus sûrs et moins chers à maintenir.</p>
+<p>SIRIUS a pris beaucoup de retard dans cette matière.</p>
+<p>Aujourd’hui, SIRIUS fonctionne mais certains de ses modules reposent sur des systèmes d’exploitation (OS) qui ne sont plus maintenus par leurs concepteurs tels que Windows XP.
+Cette situation entraine des pannes et présente des risques en termes de cybersécurité.</p>
+<p>Trois agents de la DiRIF assurent la maitrise d’ouvrage de la maintenance de SIRIUS. Ces personnes travaillent sur ce SI depuis plus de 20 ans.
+Les entreprises qui se sont succédées, comme titulaires du marché de maintenance, rencontrent des difficultés à trouver les compétences capables de travailler avec les outils d’il y a 20 ans et les agents de la DiRIF sont fortement solicitées pour les former ou pour se substituer à elles quand des aléas surgissent.</p>
+</section>
+<section id="adequation-fonctionnelle-de-sirius">
+<h2>Adéquation fonctionnelle de SIRIUS<a class="headerlink" href="#adequation-fonctionnelle-de-sirius" title="Link to this heading">¶</a></h2>
+<p>Les responsables fonctionnels de SIRIUS sont également à cette  place depuis très longtemps.
+Ils ont su faire faire beaucoup de choses au système, mais ne l’utilisent pas toujours selon les représentations des concepteurs.
+Une partie des fonctions introduites initialement dans SIRIUS ne sont plus utilisées ou le sont d’une manière différente de celle qui avait été imaginée.</p>
+<p>Ayant acquis une virtuosité dans la manipulation de SIRIUS et ne connaissant pas tout ce qui se fait ailleurs, les responsables fonctionnels ne sont pas demandeurs d’évolutions significatives. Ils craignent en revanche de se voir imposé un autre SAGT avec les aléas que cela comporte et sur lequel ils peineraient à reproduire les fonctions qu’ils utilisent aujourd’hui.</p>
+<p>La documentation fonctionnelle de SIRIUS n’est plus consultée par les exploitants et ne rend pas toujours bien compte de la manière dont SIRIUS est effectivement utilisé.
+Cette situation est un obstacle supplémentaire à l’évolution de SIRIUS.</p>
+<p>Même une modernisation logicielle qui se voudrait <em>isofonctionnelle</em> rencontrerait des difficultés en l’absence d’une spécification fonctionnelle formalisée correspondant à la pratique effective des utilisateurs.</p>
+</section>
+<section id="competences-presentes-a-la-dirif-en-2024">
+<h2>Compétences présentes à la DiRIF en 2024<a class="headerlink" href="#competences-presentes-a-la-dirif-en-2024" title="Link to this heading">¶</a></h2>
+<p>Les effectifs dédiés à SIRIUS qui demeurent à la DiRIF sont des administrateurs système et des exploitants qui font fonctionner SIRIUS.</p>
+<section id="competences-fonctionnelles">
+<h3>Compétences fonctionnelles<a class="headerlink" href="#competences-fonctionnelles" title="Link to this heading">¶</a></h3>
+<p>Aujourd’hui, à la DiRIF, la compétence fonctionnelle se situe à UCTIR, à UIRC et dans les PCTT.
+Il s’agit d’une connaissance à la manière dont l’outil SIRIUS est utilisé à la DiRIF.</p>
+<p>Les personnes présentes seront essentielles pour la conception d’un nouvel SAGT, mais elles ne sont pas en mesure de faire le travail de spécification fonctionnelle nécessaire.
+Ce travail nécessite des compétences différentes d’analyse et de modélisation.</p>
+<p>Il faut aussi avoir du recul pour envisager de faire certaines choses autrement qu’aujourd’hui.
+Il faut enfin examiner ce qui se fait ailleurs, car de nombreux SAGT ont été développés dans le monde et il y certainement des enseignements à en tirer.</p>
+<p>Quelque soit le scénario d’évolution retenu et même avec l’apui d’AMO externes, il sera nécessaire de se doter de compétences pour piloter la spécification des évolutions fonctionnelles et l’adaptation des pratiques de nos opérateurs.</p>
+</section>
+<section id="competences-informatiques">
+<h3>Compétences informatiques<a class="headerlink" href="#competences-informatiques" title="Link to this heading">¶</a></h3>
+<p>Au sein d’UIRC, plusieurs agents travaillent avec SIRIUS depuis plus de 20 ans.
+Ces personnes détiennent la compétence critique de maintenir SIRIUS en fonctionnement.
+Avec l’obsolescence croissante des composants logiciels, leur expertise est de plus en plus nécessaire et difficile à substituer.</p>
+<p>Pour ces personnes, la disparition de SIRIUS imposera une reconvertion qui sera aussi un enrichissement des tâches.</p>
+</section>
+</section>
+<section id="la-maitrise-d-ouvrage">
+<h2>La maîtrise d’ouvrage<a class="headerlink" href="#la-maitrise-d-ouvrage" title="Link to this heading">¶</a></h2>
+<section id="moa-d-un-si">
+<h3>MOA d’un SI<a class="headerlink" href="#moa-d-un-si" title="Link to this heading">¶</a></h3>
+<p>La maitrise d’ouvrage d’un SI qui évolue représente une fonction plus importante que la MOA de la construction d’un ouvrage routier.</p>
+<p>La définition des besoins avec les utilisateurs, l’accompagnement du changement, la validation des productions demandent des moyens aussi importants que la construction elle-même.</p>
+<p>La MOA du projet SAGACITE mobilise environ 10 personnes dans les DIR et autant chez les AMO (EGIS &amp; SOPRA STERIA).</p>
+<p>Comme SIRIUS évolue très peu, l’activité de MOA est faible. Néanmoins, pour se préparer à mener des évolutions, il faudrait déjà mettre en place une organisation de la MOA adaptée.</p>
+</section>
+<section id="qui-pilote-sirius">
+<h3>Qui pilote SIRIUS ?<a class="headerlink" href="#qui-pilote-sirius" title="Link to this heading">¶</a></h3>
+<p>Pour UIRC, la MOA de SIRIUS est portée par le DETT car ces à ce niveau que les décions sont prises, mais la maîtrise d’ouvrage ne se limite pas à la seule validation et il n’y a pas de ressource dédiée à cette fonction au niveau DETT.</p>
+<p>UCTIR supervise les utilisateurs qui sont les <em>clients</em> de SIRIUS, mais les moyens dédiés à cette fontion sont faibles et elle est exercée à minima.
+UCTIR est autonome ou du moins leader pour la configuration de SIRIUS, quand il faut mettre en place de nouveaux plans de gestion du trafic ou intégrer des équipements. Cela fait d’UCTIR le client mais pas le MOA du SAGT SIRIUS.</p>
+<p>C’est UIRC qui rédige et gère le marché pour l’exploitation et la TMA du système. C’est UIRC qui obtient et engage les crédits.</p>
+<p>SIRIUS connait de fréquents aléas et c’est un agent d’UIRC qui est d’astreinte pour y faire face.</p>
+<p>Les investissements qui ont été envisagés et présentés à la DMR en 2021 sont uniquement prévus pour répondre à des besoins informatiques et ne prennent pas en considération des évolutions fonctionnels. UIRC était donc autonome dans la definition de ces investissements.</p>
+</section>
+<section id="projet-d-evolution-de-2021">
+<h3>Projet d’évolution de 2021<a class="headerlink" href="#projet-d-evolution-de-2021" title="Link to this heading">¶</a></h3>
+<p>En 2021, UIRC et le titulaire du marché de maintenance OPEN ont élaboré un projet de mise à jour informatique de SIRIUS.
+Ce projet évalué à 4M€ a été présenté à la DMR mais n’a pas été approuvé.</p>
+<p>Comme une partie des fonctionnalités de SIRIUS ne sont pas utilisées, la refonte informatique envisagée en 2021 aurait conduit à reconstruire des branches inutiles du systèmes.</p>
+<p>Il manquait à ce projet une dimension fonctionnelle, la remise en cause de l’activité autour du SAGT et l’expliciation des impacts sur ses fonctionnalités.</p>
+</section>
+<section id="besoin-de-reconstruire-une-moa">
+<h3>Besoin de reconstruire une MOA<a class="headerlink" href="#besoin-de-reconstruire-une-moa" title="Link to this heading">¶</a></h3>
+<p>Les projets de SI sont des projets complexes et il est fréquent que ces projets échouent, après avoir consommé des crédits importants.
+La principale cause des échecs est la faiblesse de la MOA.
+C’est particulièrement vrai dans le secteur public qui a du mal à recruter des ingénieurs expérimentés.</p>
+<p>Pour faire évoluer SIRIUS ou pour développer un autre SAGT capable de le remplacer, la plus grosse difficulté sera de mettre en place une MOA compétente sur les aspects fonctionnels.</p>
+<p>Pour rénover le SAGT de la DIRIF, il faudra certes des crédits, mais il faudra aussi une organisation de la MOA performante. C’est un vrai défi.</p>
+<p>Si la solution est un SAGT mutualisé à l’échelle national, la complexité sera plus grande et les moyens de MOA plus importants.
+C’est peu être une ambition irréaliste ou du moins très risquée.</p>
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="22_SAGACITE.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">SAGACITE</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="2_Etat.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Etat des lieux</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            Made with 
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">SIRIUS, le SAGT de la DiRIF</a><ul>
+<li><a class="reference internal" href="#creation-de-sirius">Création de SIRIUS</a></li>
+<li><a class="reference internal" href="#evolutions-de-sirius-et-notamment-fcd">Evolutions de SIRIUS et notamment FCD</a></li>
+<li><a class="reference internal" href="#maintenance-de-sirius">Maintenance de SIRIUS</a></li>
+<li><a class="reference internal" href="#adequation-fonctionnelle-de-sirius">Adéquation fonctionnelle de SIRIUS</a></li>
+<li><a class="reference internal" href="#competences-presentes-a-la-dirif-en-2024">Compétences présentes à la DiRIF en 2024</a><ul>
+<li><a class="reference internal" href="#competences-fonctionnelles">Compétences fonctionnelles</a></li>
+<li><a class="reference internal" href="#competences-informatiques">Compétences informatiques</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#la-maitrise-d-ouvrage">La maîtrise d’ouvrage</a><ul>
+<li><a class="reference internal" href="#moa-d-un-si">MOA d’un SI</a></li>
+<li><a class="reference internal" href="#qui-pilote-sirius">Qui pilote SIRIUS ?</a></li>
+<li><a class="reference internal" href="#projet-d-evolution-de-2021">Projet d’évolution de 2021</a></li>
+<li><a class="reference internal" href="#besoin-de-reconstruire-une-moa">Besoin de reconstruire une MOA</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/furo.js?v=5fa4622c"></script>
+    </body>
+</html>
